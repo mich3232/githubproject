@@ -1,0 +1,7 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\michelle\documents\visual studio 2013\projects\thephotostore\thephotostore\obj\x86\debug\intermediatexaml\thephotostore.exe" HashGuid="19a5b1a7-28b7-1b9c-301c-bdfb9d0fc293" />
+    <ReferenceAssembly PathName="c:\users\michelle\documents\visual studio 2013\projects\thephotostore\backgroundservices\bin\x86\debug\backgroundservices.winmd" HashGuid="20cd0b24-1781-ef1d-c9ea-b067fa913e9e" />
+    <ReferenceAssembly PathName="c:\users\michelle\documents\visual studio 2013\projects\thephotostore\packages\livesdk.5.6.2\windowsxaml\microsoft.live.dll" HashGuid="129ce77c-af09-9d5d-b95e-bf89af6739c7" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

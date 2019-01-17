@@ -1,0 +1,565 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MY</Machine>
+    <WindowsUser>Michelle</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>b88e2d7c-bc6b-4673-94c7-1ff6d17d3bac</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>A320C5E85A2809E431D38965446FB9CC92DF170C88140B41ADB7C69B5696ED3C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>b88e2d7c-bc6b-4673-94c7-1ff6d17d3bac_1.0.0.0_x86__z3c93fqc9h9jr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>b88e2d7c-bc6b-4673-94c7-1ff6d17d3bac_z3c93fqc9h9jr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>b88e2d7c-bc6b-4673-94c7-1ff6d17d3bac</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Michelle</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-14T02:38:32.942</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\MelbourneGetaway.exe">
+      <PackagePath>MelbourneGetaway.exe</PackagePath>
+      <Modified>2015-05-14T02:38:18.082</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\References\commonconfiguration\neutral\Bing.Maps.winmd">
+      <PackagePath>Bing.Maps.winmd</PackagePath>
+      <Modified>2015-04-06T23:43:12.498</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\debug\x86\Bing.Maps.dll">
+      <PackagePath>Bing.Maps.dll</PackagePath>
+      <Modified>2015-04-06T23:43:12.295</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Font\Bing_Maps_Symbol.ttf">
+      <PackagePath>Bing.Maps\Font\Bing_Maps_Symbol.ttf</PackagePath>
+      <Modified>2015-04-06T23:43:11.717</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Blocked_Regions_01.png">
+      <PackagePath>Bing.Maps\Blocked_Regions_01.png</PackagePath>
+      <Modified>2015-04-06T23:43:11.545</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\circleImage-noalpha.png">
+      <PackagePath>Bing.Maps\circleImage-noalpha.png</PackagePath>
+      <Modified>2015-04-06T23:43:11.607</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\circleImage.png">
+      <PackagePath>Bing.Maps\circleImage.png</PackagePath>
+      <Modified>2015-04-06T23:43:11.607</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\dashedImage.png">
+      <PackagePath>Bing.Maps\dashedImage.png</PackagePath>
+      <Modified>2015-04-06T23:43:11.623</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\BuildingShaderXYZN-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\BuildingShaderXYZN-downlevel.ps</PackagePath>
+      <Modified>2015-04-06T23:43:11.748</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\BuildingShaderXYZN.ps">
+      <PackagePath>Bing.Maps\Shaders\BuildingShaderXYZN.ps</PackagePath>
+      <Modified>2015-04-06T23:43:11.795</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXY-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXY-downlevel.ps</PackagePath>
+      <Modified>2015-04-06T23:43:11.826</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXY.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXY.ps</PackagePath>
+      <Modified>2015-04-06T23:43:11.826</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC-Compressed-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC-Compressed-downlevel.ps</PackagePath>
+      <Modified>2015-04-06T23:43:11.826</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC-Compressed.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC-Compressed.ps</PackagePath>
+      <Modified>2015-04-06T23:43:11.842</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC-downlevel.ps</PackagePath>
+      <Modified>2015-04-06T23:43:11.842</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC.ps</PackagePath>
+      <Modified>2015-04-06T23:43:11.842</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUV-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUV-downlevel.ps</PackagePath>
+      <Modified>2015-04-06T23:43:11.842</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUV.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUV.ps</PackagePath>
+      <Modified>2015-04-06T23:43:11.857</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUVUVC-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUVUVC-downlevel.ps</PackagePath>
+      <Modified>2015-04-06T23:43:11.857</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUVUVC.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUVUVC.ps</PackagePath>
+      <Modified>2015-04-06T23:43:11.873</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZW-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZW-downlevel.ps</PackagePath>
+      <Modified>2015-04-06T23:43:11.873</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZW.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZW.ps</PackagePath>
+      <Modified>2015-04-06T23:43:11.873</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZWUV-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZWUV-downlevel.ps</PackagePath>
+      <Modified>2015-04-06T23:43:11.873</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZWUV.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZWUV.ps</PackagePath>
+      <Modified>2015-04-06T23:43:11.873</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\LineShaderXYNMC-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\LineShaderXYNMC-downlevel.ps</PackagePath>
+      <Modified>2015-04-06T23:43:11.873</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\LineShaderXYNMC.ps">
+      <PackagePath>Bing.Maps\Shaders\LineShaderXYNMC.ps</PackagePath>
+      <Modified>2015-04-06T23:43:11.889</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\TextRenderingShader-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\TextRenderingShader-downlevel.ps</PackagePath>
+      <Modified>2015-04-06T23:43:11.889</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\TextRenderingShader.ps">
+      <PackagePath>Bing.Maps\Shaders\TextRenderingShader.ps</PackagePath>
+      <Modified>2015-04-06T23:43:11.889</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\BuildingShaderXYZN-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\BuildingShaderXYZN-downlevel.vs</PackagePath>
+      <Modified>2015-04-06T23:43:11.795</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\BuildingShaderXYZN.vs">
+      <PackagePath>Bing.Maps\Shaders\BuildingShaderXYZN.vs</PackagePath>
+      <Modified>2015-04-06T23:43:11.811</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXY-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXY-downlevel.vs</PackagePath>
+      <Modified>2015-04-06T23:43:11.826</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXY.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXY.vs</PackagePath>
+      <Modified>2015-04-06T23:43:11.826</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC-Compressed-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC-Compressed-downlevel.vs</PackagePath>
+      <Modified>2015-04-06T23:43:11.826</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC-Compressed.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC-Compressed.vs</PackagePath>
+      <Modified>2015-04-06T23:43:11.842</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC-downlevel.vs</PackagePath>
+      <Modified>2015-04-06T23:43:11.842</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC.vs</PackagePath>
+      <Modified>2015-04-06T23:43:11.842</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUV-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUV-downlevel.vs</PackagePath>
+      <Modified>2015-04-06T23:43:11.857</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUV.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUV.vs</PackagePath>
+      <Modified>2015-04-06T23:43:11.857</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUVUVC-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUVUVC-downlevel.vs</PackagePath>
+      <Modified>2015-04-06T23:43:11.857</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUVUVC.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUVUVC.vs</PackagePath>
+      <Modified>2015-04-06T23:43:11.873</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZW-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZW-downlevel.vs</PackagePath>
+      <Modified>2015-04-06T23:43:11.873</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZW.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZW.vs</PackagePath>
+      <Modified>2015-04-06T23:43:11.873</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZWUV-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZWUV-downlevel.vs</PackagePath>
+      <Modified>2015-04-06T23:43:11.873</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZWUV.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZWUV.vs</PackagePath>
+      <Modified>2015-04-06T23:43:11.873</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\LineShaderXYNMC-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\LineShaderXYNMC-downlevel.vs</PackagePath>
+      <Modified>2015-04-06T23:43:11.889</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\LineShaderXYNMC.vs">
+      <PackagePath>Bing.Maps\Shaders\LineShaderXYNMC.vs</PackagePath>
+      <Modified>2015-04-06T23:43:11.889</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\TextRenderingShader-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\TextRenderingShader-downlevel.vs</PackagePath>
+      <Modified>2015-04-06T23:43:11.889</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\TextRenderingShader.vs">
+      <PackagePath>Bing.Maps\Shaders\TextRenderingShader.vs</PackagePath>
+      <Modified>2015-04-06T23:43:11.889</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\CMF.ont">
+      <PackagePath>Bing.Maps\CMF.ont</PackagePath>
+      <Modified>2015-04-06T23:43:11.607</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\LandmarkSchema.ont">
+      <PackagePath>Bing.Maps\LandmarkSchema.ont</PackagePath>
+      <Modified>2015-04-06T23:43:11.732</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Schema.ont">
+      <PackagePath>Bing.Maps\Schema.ont</PackagePath>
+      <Modified>2015-04-06T23:43:11.748</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\VenueMapsSchema.ont">
+      <PackagePath>Bing.Maps\VenueMapsSchema.ont</PackagePath>
+      <Modified>2015-04-06T23:43:12.029</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\EnglishEntityNames.hlx">
+      <PackagePath>Bing.Maps\EnglishEntityNames.hlx</PackagePath>
+      <Modified>2015-04-06T23:43:11.686</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\EntityLookup.hlx">
+      <PackagePath>Bing.Maps\EntityLookup.hlx</PackagePath>
+      <Modified>2015-04-06T23:43:11.701</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\EntityNameLength.hlx">
+      <PackagePath>Bing.Maps\EntityNameLength.hlx</PackagePath>
+      <Modified>2015-04-06T23:43:11.717</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\GermanicEntityNames.hlx">
+      <PackagePath>Bing.Maps\GermanicEntityNames.hlx</PackagePath>
+      <Modified>2015-04-06T23:43:11.717</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\InvariantEntityNames.hlx">
+      <PackagePath>Bing.Maps\InvariantEntityNames.hlx</PackagePath>
+      <Modified>2015-04-06T23:43:11.732</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\LatinEntityNames.hlx">
+      <PackagePath>Bing.Maps\LatinEntityNames.hlx</PackagePath>
+      <Modified>2015-04-06T23:43:11.748</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\NameCount.hlx">
+      <PackagePath>Bing.Maps\NameCount.hlx</PackagePath>
+      <Modified>2015-04-06T23:43:11.748</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\NameRoleLcid.hlx">
+      <PackagePath>Bing.Maps\NameRoleLcid.hlx</PackagePath>
+      <Modified>2015-04-06T23:43:11.748</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\ScandinavianEntityNames.hlx">
+      <PackagePath>Bing.Maps\ScandinavianEntityNames.hlx</PackagePath>
+      <Modified>2015-04-06T23:43:11.748</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shields202.hlx">
+      <PackagePath>Bing.Maps\Shields202.hlx</PackagePath>
+      <Modified>2015-04-06T23:43:11.889</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shields244.hlx">
+      <PackagePath>Bing.Maps\Shields244.hlx</PackagePath>
+      <Modified>2015-04-06T23:43:11.889</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shields39.hlx">
+      <PackagePath>Bing.Maps\Shields39.hlx</PackagePath>
+      <Modified>2015-04-06T23:43:11.889</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\SlavicEntityNames.hlx">
+      <PackagePath>Bing.Maps\SlavicEntityNames.hlx</PackagePath>
+      <Modified>2015-04-06T23:43:11.889</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Streets202.hlx">
+      <PackagePath>Bing.Maps\Streets202.hlx</PackagePath>
+      <Modified>2015-04-06T23:43:11.904</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Streets244.hlx">
+      <PackagePath>Bing.Maps\Streets244.hlx</PackagePath>
+      <Modified>2015-04-06T23:43:11.904</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Streets39.hlx">
+      <PackagePath>Bing.Maps\Streets39.hlx</PackagePath>
+      <Modified>2015-04-06T23:43:11.904</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\h0.tile">
+      <PackagePath>Bing.Maps\h0.tile</PackagePath>
+      <Modified>2015-04-06T23:43:11.732</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\h1.tile">
+      <PackagePath>Bing.Maps\h1.tile</PackagePath>
+      <Modified>2015-04-06T23:43:11.732</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\h2.tile">
+      <PackagePath>Bing.Maps\h2.tile</PackagePath>
+      <Modified>2015-04-06T23:43:11.732</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\h3.tile">
+      <PackagePath>Bing.Maps\h3.tile</PackagePath>
+      <Modified>2015-04-06T23:43:11.732</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\r0.tile">
+      <PackagePath>Bing.Maps\r0.tile</PackagePath>
+      <Modified>2015-04-06T23:43:11.748</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\r1.tile">
+      <PackagePath>Bing.Maps\r1.tile</PackagePath>
+      <Modified>2015-04-06T23:43:11.748</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\r2.tile">
+      <PackagePath>Bing.Maps\r2.tile</PackagePath>
+      <Modified>2015-04-06T23:43:11.748</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\r3.tile">
+      <PackagePath>Bing.Maps\r3.tile</PackagePath>
+      <Modified>2015-04-06T23:43:11.748</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\map.config">
+      <PackagePath>Bing.Maps\map.config</PackagePath>
+      <Modified>2015-04-06T23:43:11.748</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\UnifiedStyle.MapStyle">
+      <PackagePath>Bing.Maps\UnifiedStyle.MapStyle</PackagePath>
+      <Modified>2015-04-06T23:43:12.029</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\Assets\150x150.png">
+      <PackagePath>Assets\150x150.png</PackagePath>
+      <Modified>2015-05-14T02:31:24.371</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\Assets\620x300 SplashScreen.png">
+      <PackagePath>Assets\620x300 SplashScreen.png</PackagePath>
+      <Modified>2015-05-14T02:31:24.387</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\Assets\acca.png">
+      <PackagePath>Assets\acca.png</PackagePath>
+      <Modified>2015-05-14T02:31:24.402</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\Assets\Aquarium.png">
+      <PackagePath>Assets\Aquarium.png</PackagePath>
+      <Modified>2015-05-14T02:31:24.417</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\Assets\boatbuilders.png">
+      <PackagePath>Assets\boatbuilders.png</PackagePath>
+      <Modified>2015-05-14T02:31:24.459</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\Assets\chinesefestivals.png">
+      <PackagePath>Assets\chinesefestivals.png</PackagePath>
+      <Modified>2015-05-14T02:31:24.476</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\Assets\Chocolatetours.png">
+      <PackagePath>Assets\Chocolatetours.png</PackagePath>
+      <Modified>2015-05-14T02:31:24.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\Assets\Commoner.png">
+      <PackagePath>Assets\Commoner.png</PackagePath>
+      <Modified>2015-05-14T02:31:24.515</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\Assets\events.png">
+      <PackagePath>Assets\events.png</PackagePath>
+      <Modified>2015-05-14T02:31:24.547</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\Assets\fandw.png">
+      <PackagePath>Assets\fandw.png</PackagePath>
+      <Modified>2015-05-14T02:31:24.562</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\Assets\Fbackground.png">
+      <PackagePath>Assets\Fbackground.png</PackagePath>
+      <Modified>2015-05-14T02:31:24.577</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\Assets\FedSquare.png">
+      <PackagePath>Assets\FedSquare.png</PackagePath>
+      <Modified>2015-05-14T02:31:24.593</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\Assets\freeevents.png">
+      <PackagePath>Assets\freeevents.png</PackagePath>
+      <Modified>2015-05-14T02:31:24.607</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\Assets\gardens.png">
+      <PackagePath>Assets\gardens.png</PackagePath>
+      <Modified>2015-05-14T02:31:24.624</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\Assets\Gbackground.png">
+      <PackagePath>Assets\Gbackground.png</PackagePath>
+      <Modified>2015-05-14T02:31:24.639</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\Assets\GIbackground.png">
+      <PackagePath>Assets\GIbackground.png</PackagePath>
+      <Modified>2015-05-14T02:31:24.655</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\Assets\Ibackground.png">
+      <PackagePath>Assets\Ibackground.png</PackagePath>
+      <Modified>2015-05-14T02:31:24.669</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\Assets\JazzFestival.png">
+      <PackagePath>Assets\JazzFestival.png</PackagePath>
+      <Modified>2015-05-14T02:31:24.684</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\Assets\MelbourneJail.png">
+      <PackagePath>Assets\MelbourneJail.png</PackagePath>
+      <Modified>2015-05-14T02:31:24.746</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\Assets\melcup.png">
+      <PackagePath>Assets\melcup.png</PackagePath>
+      <Modified>2015-05-14T02:31:24.762</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\Assets\NGV.png">
+      <PackagePath>Assets\NGV.png</PackagePath>
+      <Modified>2015-05-14T02:31:24.778</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\Assets\oldtreasury.png">
+      <PackagePath>Assets\oldtreasury.png</PackagePath>
+      <Modified>2015-05-14T02:31:24.793</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\Assets\openhouse.png">
+      <PackagePath>Assets\openhouse.png</PackagePath>
+      <Modified>2015-05-14T02:31:24.810</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\Assets\Sbackground.png">
+      <PackagePath>Assets\Sbackground.png</PackagePath>
+      <Modified>2015-05-14T02:31:24.824</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\Assets\seeanddo.png">
+      <PackagePath>Assets\seeanddo.png</PackagePath>
+      <Modified>2015-05-14T02:31:24.840</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\Assets\sensory.png">
+      <PackagePath>Assets\sensory.png</PackagePath>
+      <Modified>2015-05-14T02:31:24.856</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\Assets\TownHall.png">
+      <PackagePath>Assets\TownHall.png</PackagePath>
+      <Modified>2015-05-14T02:31:24.934</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\Assets\Tram.png">
+      <PackagePath>Assets\Tram.png</PackagePath>
+      <Modified>2015-05-14T02:31:24.949</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\Assets\Wine.png">
+      <PackagePath>Assets\Wine.png</PackagePath>
+      <Modified>2015-05-14T02:31:24.966</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-14T02:31:24.716</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-14T02:31:24.871</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-14T02:31:24.887</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-14T02:31:24.902</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2015-05-14T02:31:24.700</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2015-05-14T02:31:24.731</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2015-05-14T02:31:24.531</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+      <Modified>2015-05-14T02:31:29.166</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-05-14T02:38:17.166</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\BasicPage1.xbf">
+      <PackagePath>BasicPage1.xbf</PackagePath>
+      <Modified>2015-05-14T02:38:17.167</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\FavouritesPage.xbf">
+      <PackagePath>FavouritesPage.xbf</PackagePath>
+      <Modified>2015-05-14T02:38:17.167</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\GroupedItemsPage.xbf">
+      <PackagePath>GroupedItemsPage.xbf</PackagePath>
+      <Modified>2015-05-14T02:38:17.167</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\GroupDetailPage.xbf">
+      <PackagePath>GroupDetailPage.xbf</PackagePath>
+      <Modified>2015-05-14T02:38:17.167</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\ItemDetailPage.xbf">
+      <PackagePath>ItemDetailPage.xbf</PackagePath>
+      <Modified>2015-05-14T02:38:17.168</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\MapPageDirections.xbf">
+      <PackagePath>MapPageDirections.xbf</PackagePath>
+      <Modified>2015-05-14T02:38:17.168</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\MelbourneSearchPage.xbf">
+      <PackagePath>MelbourneSearchPage.xbf</PackagePath>
+      <Modified>2015-05-14T02:38:17.168</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\Bing.Maps\Themes\Generic.xbf">
+      <PackagePath>Bing.Maps\Themes\Generic.xbf</PackagePath>
+      <Modified>2015-05-14T02:38:17.309</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\MelbourneGetaway.xr.xml">
+      <PackagePath>MelbourneGetaway.xr.xml</PackagePath>
+      <Modified>2015-05-14T02:38:17.022</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Desktop\MelbourneGetaway %281%29\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-05-14T02:38:19.287</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

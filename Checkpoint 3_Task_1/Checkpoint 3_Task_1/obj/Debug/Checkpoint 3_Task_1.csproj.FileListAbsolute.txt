@@ -1,0 +1,15 @@
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint 3_Task_1\Checkpoint 3_Task_1\bin\Debug\Checkpoint 3_Task_1.exe.config
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint 3_Task_1\Checkpoint 3_Task_1\bin\Debug\Checkpoint 3_Task_1.exe
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint 3_Task_1\Checkpoint 3_Task_1\bin\Debug\Checkpoint 3_Task_1.pdb
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint 3_Task_1\Checkpoint 3_Task_1\obj\Debug\Checkpoint_3_Task_1.Form1.resources
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint 3_Task_1\Checkpoint 3_Task_1\obj\Debug\Checkpoint_3_Task_1.Properties.Resources.resources
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint 3_Task_1\Checkpoint 3_Task_1\obj\Debug\Checkpoint 3_Task_1.csproj.GenerateResource.Cache
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint 3_Task_1\Checkpoint 3_Task_1\obj\Debug\Checkpoint 3_Task_1.exe
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint 3_Task_1\Checkpoint 3_Task_1\obj\Debug\Checkpoint 3_Task_1.pdb
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint 3_Task_1\Checkpoint 3_Task_1\obj\Debug\Checkpoint 3_Task_1.csprojResolveAssemblyReference.cache
+C:\Users\Michelle\Desktop\Checkpoint 3_Task_1\Checkpoint 3_Task_1\bin\Debug\Checkpoint 3_Task_1.exe.config
+C:\Users\Michelle\Desktop\Checkpoint 3_Task_1\Checkpoint 3_Task_1\obj\Debug\Checkpoint 3_Task_1.exe
+C:\Users\Michelle\Desktop\Checkpoint 3_Task_1\Checkpoint 3_Task_1\obj\Debug\Checkpoint 3_Task_1.pdb
+C:\Users\Michelle\Desktop\computer course\Checkpoint 3_Task_1\Checkpoint 3_Task_1\bin\Debug\Checkpoint 3_Task_1.exe.config
+C:\Users\Michelle\Desktop\computer course\Checkpoint 3_Task_1\Checkpoint 3_Task_1\obj\Debug\Checkpoint 3_Task_1.exe
+C:\Users\Michelle\Desktop\computer course\Checkpoint 3_Task_1\Checkpoint 3_Task_1\obj\Debug\Checkpoint 3_Task_1.pdb

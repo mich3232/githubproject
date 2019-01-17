@@ -1,0 +1,8 @@
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint_4_Task_3\Checkpoint_4_Task_3\bin\Debug\Checkpoint_4_Task_3.exe.config
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint_4_Task_3\Checkpoint_4_Task_3\obj\Debug\Checkpoint_4_Task_3.Form1.resources
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint_4_Task_3\Checkpoint_4_Task_3\obj\Debug\Checkpoint_4_Task_3.Properties.Resources.resources
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint_4_Task_3\Checkpoint_4_Task_3\obj\Debug\Checkpoint_4_Task_3.csproj.GenerateResource.Cache
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint_4_Task_3\Checkpoint_4_Task_3\bin\Debug\Checkpoint_4_Task_3.exe
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint_4_Task_3\Checkpoint_4_Task_3\bin\Debug\Checkpoint_4_Task_3.pdb
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint_4_Task_3\Checkpoint_4_Task_3\obj\Debug\Checkpoint_4_Task_3.exe
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint_4_Task_3\Checkpoint_4_Task_3\obj\Debug\Checkpoint_4_Task_3.pdb

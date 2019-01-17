@@ -1,0 +1,11 @@
+# view AndroidManifest.xml #generated:11
+-keep class android.CompetencyCheckpoint3_Task2.MainActivity { <init>(...); }
+
+# onClick land\res/layout-land/main.xml #generated:107
+# onClick res/layout/main.xml #generated:94
+-keepclassmembers class * { *** ResetInformation(...); }
+
+# onClick land\res/layout-land/main.xml #generated:100
+# onClick res/layout/main.xml #generated:86
+-keepclassmembers class * { *** ViewInformation(...); }
+

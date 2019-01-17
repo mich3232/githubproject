@@ -1,0 +1,45 @@
+﻿<Page
+    x:Name="pageRoot"
+    x:Class="ThePhotoStore.ThePhotoStore"
+    DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Self}}"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ThePhotoStore"
+    xmlns:common="using:ThePhotoStore.Common"
+
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    
+    mc:Ignorable="d">
+
+    <Page.Resources>
+        <!-- TODO: Delete this line if the key AppName is declared in App.xaml -->
+        <x:String x:Key="AppName">The Photo Store</x:String>
+    </Page.Resources>
+
+
+
+    <Grid RenderTransformOrigin="0.499,0.499" >
+        <Grid.Background>
+            <ImageBrush ImageSource="/Assets/images/collage.png" Stretch="UniformToFill" />
+        </Grid.Background>
+        <Grid x:Name="Output" HorizontalAlignment="Left" VerticalAlignment="Top" Grid.Row="1">
+            <StackPanel HorizontalAlignment="Center"/>
+        </Grid>
+
+        <Button x:Name="backButton" Margin="39,59,39,0" Command="{Binding NavigationHelper.GoBackCommand, ElementName=pageRoot}"
+                        Style="{StaticResource NavigationBackButtonNormalStyle}"
+                        VerticalAlignment="Top"
+                        AutomationProperties.Name="Back"
+                        AutomationProperties.AutomationId="BackButton"
+                        AutomationProperties.ItemType="Navigation Button" Background="#FF060505" Foreground="#FF080707" BorderBrush="#FFF9F2F2"/>
+        <StackPanel HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0" Height="352" Width="496">
+            <local:ImageLogo x:Name="usercontrol" Margin="88,32,33,448"/>
+        </StackPanel>
+        <local:CameraButton x:Name="usercontrol1" Margin="64,221,1047,223" Tapped="Camera_Tapped"/>
+        <local:SaveViewButton x:Name="usercontrol2" Margin="135,337,1118,124" Height="307" Tapped="Save_Tapped"/>
+        <local:BackGroundFeatureButton x:Name="usercontrol3" Margin="135,507,1118,74" Tapped="Background_Tapped"/>
+
+
+    </Grid>
+</Page>

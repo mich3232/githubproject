@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<TextView
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="Competency Checkpoint 4 Task 2"
+    />
+    <TableRow>
+<TextView 
+    android:layout_width="150dp"
+    android:layout_height="wrap_content"
+    android:text="User Name"
+/>
+<EditText
+    android:id="@+id/etUsername"
+    android:layout_width="150dp"
+    android:layout_height="wrap_content"
+    android:hint="UserName"
+/>
+    </TableRow>
+    <TableRow>
+<TextView 
+    android:layout_width="150dp"
+    android:layout_height="wrap_content"
+    android:text="Password"
+/>
+<EditText
+    android:id="@+id/etPassword"
+    android:layout_width="150dp"
+    android:layout_height="wrap_content"
+    android:hint="Password"
+    android:inputType="textPassword"
+/>
+    </TableRow>
+    <CheckBox
+        android:id="@+id/cbShowPwd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/etPassword"
+        android:text="Show Password"
+ />
+<TableRow>        
+<Button
+    android:id="@+id/btnRegister"
+    android:layout_width="150dp"
+    android:layout_height="wrap_content"
+    android:text="Register"
+    android:onClick="saveLogin"
+/>
+  <Button
+    android:id="@+id/btnLogon"  
+    android:layout_width="150dp"
+    android:layout_height="wrap_content"
+    android:text="Logon"
+    android:onClick="Logon"
+/>             
+  </TableRow>
+  <TableRow>
+      <TextView
+          android:id="@+id/txtMessage"
+          android:layout_width="fill_parent"
+          android:layout_height="wrap_content"
+      />
+  </TableRow>  
+</TableLayout>
+

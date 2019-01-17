@@ -1,0 +1,9 @@
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint_3_Tasl_3\Checkpoint_3_Tasl_3\bin\Debug\Checkpoint_3_Tasl_3.exe.config
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint_3_Tasl_3\Checkpoint_3_Tasl_3\bin\Debug\Checkpoint_3_Tasl_3.exe
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint_3_Tasl_3\Checkpoint_3_Tasl_3\bin\Debug\Checkpoint_3_Tasl_3.pdb
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint_3_Tasl_3\Checkpoint_3_Tasl_3\obj\Debug\Checkpoint_3_Task_3.csprojResolveAssemblyReference.cache
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint_3_Tasl_3\Checkpoint_3_Tasl_3\obj\Debug\Checkpoint_3_Task_3.Form1.resources
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint_3_Tasl_3\Checkpoint_3_Tasl_3\obj\Debug\Checkpoint_3_Task_3.Properties.Resources.resources
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint_3_Tasl_3\Checkpoint_3_Tasl_3\obj\Debug\Checkpoint_3_Task_3.csproj.GenerateResource.Cache
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint_3_Tasl_3\Checkpoint_3_Tasl_3\obj\Debug\Checkpoint_3_Tasl_3.exe
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint_3_Tasl_3\Checkpoint_3_Tasl_3\obj\Debug\Checkpoint_3_Tasl_3.pdb

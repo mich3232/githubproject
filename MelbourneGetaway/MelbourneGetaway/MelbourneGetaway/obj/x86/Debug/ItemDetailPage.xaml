@@ -1,0 +1,103 @@
+﻿<Page
+    x:Name="pageRoot"
+    x:Class="MelbourneGetaway.ItemDetailPage"
+    DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Self}}"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MelbourneGetaway"
+    xmlns:data="using:MelbourneGetaway.Data"
+    xmlns:common="using:MelbourneGetaway.Common"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <!--
+        This grid acts as a root panel for the page that defines two rows:
+        * Row 0 contains the back button and page title
+        * Row 1 contains the rest of the page layout
+    -->
+    <Page.Resources>
+
+        <!-- Collection of items displayed by this page -->
+        <CollectionViewSource
+            x:Name="itemsViewSource"
+            Source="{Binding Items}"
+            d:Source="{Binding Groups[0].Items, Source={d:DesignData Source=/DataModel/SampleData.json, Type= data:SampleDataSource}}"/>
+    </Page.Resources>
+
+    <Grid Background="{ThemeResource AppBackgroundImage_2}"
+        DataContext="{Binding Item}"
+        d:DataContext="{Binding Groups[0].Items[0], Source={d:DesignData Source=/DataModel/SampleData.json, Type=data:SampleDataSource}}">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="140"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--
+            TODO: Content should be placed within the following grid 
+                  to show details for the current item
+        -->
+        <Grid Grid.Row="1" x:Name="contentRegion">
+            <FlipView x:Name="flipView"
+                      AutomationProperties.AutomationId="ItemsFipView"
+                      AutomationProperties.Name="Item Details"
+                      TabIndex="1"
+                      ItemsSource="{Binding Source={StaticResource itemsViewSource}}" Margin="-18,7,18,-7">
+
+                <FlipView.ItemContainerStyle>
+                    <Style TargetType="FlipViewItem">
+                        <Setter Property="Margin" Value="0,137,0,0"/>
+                    </Style>
+                </FlipView.ItemContainerStyle>
+                <FlipView.ItemTemplate>
+                    <DataTemplate>
+                        <UserControl  x:Name="userControl">
+                            <ScrollViewer x:Name="scrollViewer" HorizontalScrollMode="Auto" VerticalScrollMode="Auto" Margin="0,-140,0,0">
+                                <RichTextBlock x:Name="richTextBlock" Width="560" Style="{StaticResource BodyRichTextBlockStyle}" IsTextSelectionEnabled="False" Height="625">
+
+                                    <Paragraph LineHeight="25">
+                                        <Run FontWeight="Normal" Text="{Binding Subtitle}"/>
+                                    </Paragraph>
+                                    <Paragraph LineStackingStrategy="MaxHeight">
+                                        <InlineUIContainer>
+                                            <Image x:Name="image" MaxHeight="480" Margin="0,20,0,40" Stretch="Uniform" Source="{Binding Image}" AutomationProperties.Name="{Binding Title}" Height="200" Width="200"/>
+                                        </InlineUIContainer>
+                                    </Paragraph>
+                                    <Paragraph>
+                                        <Run FontWeight="SemiLight" Text="{Binding Content}" />
+                                    </Paragraph>
+
+                                </RichTextBlock>
+
+                            </ScrollViewer>
+                        </UserControl>
+
+
+                    </DataTemplate>
+                </FlipView.ItemTemplate>
+            </FlipView>
+
+        </Grid>
+
+        <!-- Back button and page title -->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="120"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="backButton" Margin="39,59,39,0" Command="{Binding NavigationHelper.GoBackCommand, ElementName=pageRoot}"
+                        Style="{StaticResource NavigationBackButtonNormalStyle}"
+                        VerticalAlignment="Top"
+                        AutomationProperties.Name="Back"
+                        AutomationProperties.AutomationId="BackButton"
+                        AutomationProperties.ItemType="Navigation Button"/>
+
+            <TextBlock x:Name="pageTitle" Text="{Binding Title}" Style="{StaticResource HeaderTextBlockStyle}" Grid.Column="1" 
+                        IsHitTestVisible="false" TextWrapping="NoWrap" VerticalAlignment="Bottom" Margin="0,0,30,40" FontFamily="Global User Interface" FontSize="48"/>
+            <SearchBox x:ConnectionId='1' x:Name="mySearchBox3" Grid.Column="1" Height="35" Width="270" Margin="976,65,0,40" PlaceholderText="Search" 
+                                                                  FontFamily="Global User Interface" RenderTransformOrigin="0.504,0.629"  />
+        </Grid>
+    </Grid>
+</Page>
+

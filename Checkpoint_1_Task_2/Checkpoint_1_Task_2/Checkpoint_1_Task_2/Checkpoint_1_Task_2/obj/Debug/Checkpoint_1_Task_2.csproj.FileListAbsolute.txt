@@ -1,0 +1,45 @@
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint_1_Task_2\Checkpoint_1_Task_2\bin\Debug\Checkpoint_1_Task_2.exe.config
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint_1_Task_2\Checkpoint_1_Task_2\bin\Debug\Checkpoint_1_Task_2.exe
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint_1_Task_2\Checkpoint_1_Task_2\bin\Debug\Checkpoint_1_Task_2.pdb
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint_1_Task_2\Checkpoint_1_Task_2\obj\Debug\Checkpoint_1_Task_2.Form1.resources
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint_1_Task_2\Checkpoint_1_Task_2\obj\Debug\Checkpoint_1_Task_2.Properties.Resources.resources
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint_1_Task_2\Checkpoint_1_Task_2\obj\Debug\Checkpoint_1_Task_2.csproj.GenerateResource.Cache
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint_1_Task_2\Checkpoint_1_Task_2\obj\Debug\Checkpoint_1_Task_2.exe
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint_1_Task_2\Checkpoint_1_Task_2\obj\Debug\Checkpoint_1_Task_2.pdb
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint_1_Task_2\Checkpoint_1_Task_2\obj\Debug\Checkpoint_1_Task_2.csprojResolveAssemblyReference.cache
+H:\Student Submitted Assignments\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\bin\Debug\Checkpoint_1_Task_2.exe.config
+H:\Student Submitted Assignments\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\obj\Debug\Checkpoint_1_Task_2.exe
+H:\Student Submitted Assignments\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\obj\Debug\Checkpoint_1_Task_2.pdb
+H:\Student Submitted Assignments\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\bin\Debug\Checkpoint_1_Task_2.exe
+H:\Student Submitted Assignments\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\bin\Debug\Checkpoint_1_Task_2.pdb
+H:\Student Submitted Assignments\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\obj\Debug\Checkpoint_1_Task_2.csprojResolveAssemblyReference.cache
+H:\Student Submitted Assignments\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\obj\Debug\Checkpoint_1_Task_2.Form1.resources
+H:\Student Submitted Assignments\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\obj\Debug\Checkpoint_1_Task_2.Properties.Resources.resources
+H:\Student Submitted Assignments\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\obj\Debug\Checkpoint_1_Task_2.csproj.GenerateResource.Cache
+C:\Users\Michelle\Desktop\Checkpoint_1_Task_2 (2)\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\bin\Debug\Checkpoint_1_Task_2.exe.config
+C:\Users\Michelle\Desktop\Checkpoint_1_Task_2 (2)\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\obj\Debug\Checkpoint_1_Task_2.exe
+C:\Users\Michelle\Desktop\Checkpoint_1_Task_2 (2)\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\obj\Debug\Checkpoint_1_Task_2.pdb
+C:\Users\Michelle\Desktop\Checkpoint_1_Task_2 (2)\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\bin\Debug\Checkpoint_1_Task_2.exe
+C:\Users\Michelle\Desktop\Checkpoint_1_Task_2 (2)\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\bin\Debug\Checkpoint_1_Task_2.pdb
+C:\Users\Michelle\Desktop\Checkpoint_1_Task_2 (2)\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\obj\Debug\Checkpoint_1_Task_2.csprojResolveAssemblyReference.cache
+C:\Users\Michelle\Desktop\Checkpoint_1_Task_2 (2)\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\obj\Debug\Checkpoint_1_Task_2.Form1.resources
+C:\Users\Michelle\Desktop\Checkpoint_1_Task_2 (2)\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\obj\Debug\Checkpoint_1_Task_2.Properties.Resources.resources
+C:\Users\Michelle\Desktop\Checkpoint_1_Task_2 (2)\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\obj\Debug\Checkpoint_1_Task_2.csproj.GenerateResource.Cache
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint_1_Task_2 (2)\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\bin\Debug\Checkpoint_1_Task_2.exe.config
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint_1_Task_2 (2)\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\obj\Debug\Checkpoint_1_Task_2.exe
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint_1_Task_2 (2)\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\obj\Debug\Checkpoint_1_Task_2.pdb
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint_1_Task_2 (2)\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\bin\Debug\Checkpoint_1_Task_2.exe
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint_1_Task_2 (2)\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\bin\Debug\Checkpoint_1_Task_2.pdb
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint_1_Task_2 (2)\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\obj\Debug\Checkpoint_1_Task_2.csprojResolveAssemblyReference.cache
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint_1_Task_2 (2)\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\obj\Debug\Checkpoint_1_Task_2.Form1.resources
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint_1_Task_2 (2)\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\obj\Debug\Checkpoint_1_Task_2.Properties.Resources.resources
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint_1_Task_2 (2)\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\obj\Debug\Checkpoint_1_Task_2.csproj.GenerateResource.Cache
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\bin\Debug\Checkpoint_1_Task_2.exe.config
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\obj\Debug\Checkpoint_1_Task_2.exe
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\obj\Debug\Checkpoint_1_Task_2.pdb
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\bin\Debug\Checkpoint_1_Task_2.exe
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\bin\Debug\Checkpoint_1_Task_2.pdb
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\obj\Debug\Checkpoint_1_Task_2.csprojResolveAssemblyReference.cache
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\obj\Debug\Checkpoint_1_Task_2.Form1.resources
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\obj\Debug\Checkpoint_1_Task_2.Properties.Resources.resources
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\Checkpoint_1_Task_2\obj\Debug\Checkpoint_1_Task_2.csproj.GenerateResource.Cache

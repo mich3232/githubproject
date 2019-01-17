@@ -1,0 +1,12 @@
+# view AndroidManifest.xml #generated:14
+-keep class Android.CompetencyCheckpoint4_Task2.LoginActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:7
+-keep class Android.CompetencyCheckpoint4_Task2.MainActivity { <init>(...); }
+
+# onClick res/layout/main.xml #generated:54
+-keepclassmembers class * { *** Logon(...); }
+
+# onClick res/layout/main.xml #generated:47
+-keepclassmembers class * { *** saveLogin(...); }
+

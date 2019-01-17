@@ -1,0 +1,2 @@
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\BackgroundServices\BackgroundServices.csproj;x86
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\ThePhotoStore.csproj;x86

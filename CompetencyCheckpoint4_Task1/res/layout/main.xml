@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#F0DC82"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<TextView
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="Travel Diary"
+    android:textColor="#960018"
+    />
+    <TableRow>
+        <TextView
+            android:id="@+id/idText"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:text="Entry Id"
+            android:textColor="#960018"
+        />
+        <EditText
+            android:id="@+id/txtId"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:hint="Id"
+        />
+    </TableRow>
+    <TableRow>
+        <TextView
+           android:id="@+id/placeText"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:text="Place"
+            android:textColor="#960018"
+        />
+        <EditText
+            android:id="@+id/txtPlace"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:hint="Place"
+        />
+    </TableRow>
+    <TableRow>
+        <TextView
+           android:id="@+id/countryText"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:text="Country"
+            android:textColor="#960018"
+        />
+        <EditText
+            android:id="@+id/txtCountry"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:hint="Country"
+        />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:id="@+id/yearText"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:text="Year"
+            android:textColor="#960018"
+        />
+        <EditText
+            android:id="@+id/txtYear"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:hint="Year"
+        />
+    </TableRow>
+    
+    <Button
+        android:id="@+id/btnAdd"
+        android:text="Add a Travel Itinerary"
+        android:layout_width="fill_parent"
+        android:layout_height="30dp"
+        android:background="#9BDDFF"
+        android:onClick="addItinerary"
+        android:layout_margin="4dp"
+    />
+    <Button
+        android:id="@+id/btnDelete"
+        android:text="Delete a Travel Itinerary"
+        android:layout_width="fill_parent"
+        android:layout_height="30dp"
+        android:background="#9BDDFF"
+        android:onClick="deleteItinerary"
+        android:layout_margin="4dp"
+    />
+    <Button
+        android:id="@+id/btnView"
+        android:text="View a Travel Itinerary"
+        android:layout_width="fill_parent"
+        android:layout_height="30dp"
+        android:background="#9BDDFF"
+        android:onClick="viewItinerary"
+        android:layout_margin="4dp"
+    />
+    <Button
+        android:id="@+id/btnUpdate"
+        android:text="Update a Travel Itinerary"
+        android:layout_width="fill_parent"
+        android:layout_height="30dp"
+        android:background="#9BDDFF"
+        android:onClick="updateItinerary"
+       android:layout_margin="4dp" 
+    />
+</TableLayout>
+

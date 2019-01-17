@@ -1,0 +1,27 @@
+﻿<UserControl
+    x:Class="ThePhotoStore.SaveViewButton"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ThePhotoStore"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Height="191" Width="113.499">
+
+    <Grid Width="80" Height="80" Margin="5" >
+
+        <Ellipse Fill="Orchid"/>
+
+        <Ellipse Margin="10" >
+            <Ellipse.Fill>
+
+                <LinearGradientBrush>
+                    <GradientStop Offset="0" Color="Black"/>
+                    <GradientStop Offset="0.5" Color="Beige" />
+                    <GradientStop Offset="1" Color="#50FFFFFF"/>
+                </LinearGradientBrush>
+            </Ellipse.Fill>
+        </Ellipse>
+        <TextBlock HorizontalAlignment="Left" Margin="10,-18,0,0" TextWrapping="Wrap" Text="Photo Page" VerticalAlignment="Top" Width="66" RenderTransformOrigin="0.474,2.308"/>
+
+    </Grid>
+</UserControl>

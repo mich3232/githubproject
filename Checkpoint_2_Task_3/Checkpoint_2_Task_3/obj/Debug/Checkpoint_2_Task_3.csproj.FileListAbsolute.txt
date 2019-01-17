@@ -1,0 +1,18 @@
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint_3_Tasl_3\Checkpoint_3_Tasl_3\bin\Debug\Checkpoint_3_Tasl_3.exe.config
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint_3_Tasl_3\Checkpoint_3_Tasl_3\bin\Debug\Checkpoint_3_Tasl_3.exe
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint_3_Tasl_3\Checkpoint_3_Tasl_3\bin\Debug\Checkpoint_3_Tasl_3.pdb
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint_3_Tasl_3\Checkpoint_3_Tasl_3\obj\Debug\Checkpoint_3_Task_3.Form1.resources
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint_3_Tasl_3\Checkpoint_3_Tasl_3\obj\Debug\Checkpoint_3_Task_3.Properties.Resources.resources
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint_3_Tasl_3\Checkpoint_3_Tasl_3\obj\Debug\Checkpoint_2_Task_3.csproj.GenerateResource.Cache
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint_3_Tasl_3\Checkpoint_3_Tasl_3\obj\Debug\Checkpoint_3_Tasl_3.exe
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint_3_Tasl_3\Checkpoint_3_Tasl_3\obj\Debug\Checkpoint_3_Tasl_3.pdb
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint_3_Tasl_3\Checkpoint_3_Tasl_3\obj\Debug\Checkpoint_2_Task_3.csprojResolveAssemblyReference.cache
+C:\Users\Michelle\Desktop\Checkpoint_2_Task_3\Checkpoint_2_TasK_3\Checkpoint_3_Tasl_3\bin\Debug\Checkpoint_3_Tasl_3.exe.config
+C:\Users\Michelle\Desktop\Checkpoint_2_Task_3\Checkpoint_2_TasK_3\Checkpoint_3_Tasl_3\obj\Debug\Checkpoint_3_Tasl_3.exe
+C:\Users\Michelle\Desktop\Checkpoint_2_Task_3\Checkpoint_2_TasK_3\Checkpoint_3_Tasl_3\obj\Debug\Checkpoint_3_Tasl_3.pdb
+C:\Users\Michelle\Desktop\Checkpoint_2_Task_3\Checkpoint_2_TasK_3\Checkpoint_3_Tasl_3\bin\Debug\Checkpoint_3_Tasl_3.exe
+C:\Users\Michelle\Desktop\Checkpoint_2_Task_3\Checkpoint_2_TasK_3\Checkpoint_3_Tasl_3\bin\Debug\Checkpoint_3_Tasl_3.pdb
+C:\Users\Michelle\Desktop\Checkpoint_2_Task_3\Checkpoint_2_TasK_3\Checkpoint_3_Tasl_3\obj\Debug\Checkpoint_2_Task_3.csprojResolveAssemblyReference.cache
+C:\Users\Michelle\Desktop\Checkpoint_2_Task_3\Checkpoint_2_TasK_3\Checkpoint_3_Tasl_3\obj\Debug\Checkpoint_3_Task_3.Form1.resources
+C:\Users\Michelle\Desktop\Checkpoint_2_Task_3\Checkpoint_2_TasK_3\Checkpoint_3_Tasl_3\obj\Debug\Checkpoint_3_Task_3.Properties.Resources.resources
+C:\Users\Michelle\Desktop\Checkpoint_2_Task_3\Checkpoint_2_TasK_3\Checkpoint_3_Tasl_3\obj\Debug\Checkpoint_2_Task_3.csproj.GenerateResource.Cache

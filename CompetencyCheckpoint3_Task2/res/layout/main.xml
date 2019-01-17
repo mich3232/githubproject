@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#3D2B1F"
+    >
+    
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Earthquakes"
+    />
+<TableRow>
+    <TextView
+        
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:text="North Coordinates"
+    />
+    
+    <EditText
+        android:id="@+id/northText"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        
+    />
+</TableRow>
+
+<TableRow >  
+    <TextView
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:text="East Coordinates"
+    />
+    
+    <EditText
+        android:id="@+id/eastText"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+
+    />
+</TableRow>
+ 
+<TableRow>   
+    <TextView
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:text="West Coordinates"
+    />
+    
+    <EditText
+        android:id="@+id/westText"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+    />
+</TableRow>
+<TableRow>   
+    <TextView
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:text="South Coordinates"
+    />
+    
+    <EditText
+        android:id="@+id/southText"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+    />
+</TableRow>
+
+<TableRow>   
+    <TextView
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:text="Earthquake"
+    />
+    <TextView
+        android:id="@+id/earthquakeText"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+    />
+</TableRow>
+
+<TableRow>
+    <Button
+        android:id="@+id/btnView"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:text="View"
+        android:onClick="ViewInformation"
+    />
+    
+    <Button
+        android:id="@+id/btnReset"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:text="Reset"
+        android:onClick="ResetInformation"
+    />
+</TableRow>
+
+</TableLayout>
+

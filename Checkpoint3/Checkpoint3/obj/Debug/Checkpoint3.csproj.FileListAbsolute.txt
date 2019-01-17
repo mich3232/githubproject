@@ -1,0 +1,9 @@
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint3\Checkpoint3\bin\Debug\Checkpoint3.exe.config
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint3\Checkpoint3\obj\Debug\Checkpoint3.csprojResolveAssemblyReference.cache
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint3\Checkpoint3\obj\Debug\Checkpoint3.Form1.resources
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint3\Checkpoint3\obj\Debug\Checkpoint3.Properties.Resources.resources
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint3\Checkpoint3\obj\Debug\Checkpoint3.csproj.GenerateResource.Cache
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint3\Checkpoint3\bin\Debug\Checkpoint3.exe
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint3\Checkpoint3\bin\Debug\Checkpoint3.pdb
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint3\Checkpoint3\obj\Debug\Checkpoint3.exe
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\Checkpoint3\Checkpoint3\obj\Debug\Checkpoint3.pdb

@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MY</Machine>
+    <WindowsUser>Michelle</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>246733a5-b074-41e0-b266-88f80f460965</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\obj\x86\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>01C5801D6B41BAF6D4FF58E78269C25A2AD6DB9697A1336FD5F3AD257F4A8D6B</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>246733a5-b074-41e0-b266-88f80f460965_1.0.0.0_x86__z3c93fqc9h9jr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>246733a5-b074-41e0-b266-88f80f460965_z3c93fqc9h9jr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>246733a5-b074-41e0-b266-88f80f460965</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Michelle</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-26T00:03:18.118</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\bin\x86\Debug\ThePhotoStore.exe">
+      <PackagePath>ThePhotoStore.exe</PackagePath>
+      <Modified>2015-05-26T03:22:31.003</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\BackgroundServices\bin\x86\Debug\BackgroundServices.winmd">
+      <PackagePath>BackgroundServices.winmd</PackagePath>
+      <Modified>2015-05-26T00:02:17.897</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\packages\LiveSDK.5.6.2\WindowsXAML\Microsoft.Live.dll">
+      <PackagePath>Microsoft.Live.dll</PackagePath>
+      <Modified>2015-05-18T01:47:11.188</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\Fonts\LiveSymbol.ttf">
+      <PackagePath>Fonts\LiveSymbol.ttf</PackagePath>
+      <Modified>2015-05-18T01:47:11.546</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\Assets\images\Camera.png">
+      <PackagePath>Assets\images\Camera.png</PackagePath>
+      <Modified>2015-05-26T00:25:48.044</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\Assets\images\collage.png">
+      <PackagePath>Assets\images\collage.png</PackagePath>
+      <Modified>2015-05-26T00:25:34.351</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T20:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T20:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-12T10:08:03.073</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T20:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-04-22T11:39:42.973</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\bin\x86\Debug\BackGroundFeatureButton.xbf">
+      <PackagePath>BackGroundFeatureButton.xbf</PackagePath>
+      <Modified>2015-05-12T08:49:53.381</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\bin\x86\Debug\Camera.xbf">
+      <PackagePath>Camera.xbf</PackagePath>
+      <Modified>2015-05-12T12:31:38.111</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\bin\x86\Debug\CameraButton.xbf">
+      <PackagePath>CameraButton.xbf</PackagePath>
+      <Modified>2015-05-12T12:31:38.111</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\bin\x86\Debug\FolderPage.xbf">
+      <PackagePath>FolderPage.xbf</PackagePath>
+      <Modified>2015-05-26T03:22:30.623</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\bin\x86\Debug\ImageLogo.xbf">
+      <PackagePath>ImageLogo.xbf</PackagePath>
+      <Modified>2015-05-14T07:05:36.064</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\bin\x86\Debug\PhotoPage.xbf">
+      <PackagePath>PhotoPage.xbf</PackagePath>
+      <Modified>2015-05-26T03:22:30.624</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\bin\x86\Debug\SaveViewButton.xbf">
+      <PackagePath>SaveViewButton.xbf</PackagePath>
+      <Modified>2015-05-12T12:31:38.112</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\bin\x86\Debug\ThePhotoStore.xbf">
+      <PackagePath>ThePhotoStore.xbf</PackagePath>
+      <Modified>2015-05-14T07:05:36.065</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\bin\x86\Debug\ViewPage.xbf">
+      <PackagePath>ViewPage.xbf</PackagePath>
+      <Modified>2015-05-14T07:05:36.065</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\bin\x86\Debug\ThePhotoStore.xr.xml">
+      <PackagePath>ThePhotoStore.xr.xml</PackagePath>
+      <Modified>2015-05-26T03:22:30.488</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-05-26T00:03:02.031</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

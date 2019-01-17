@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MY</Machine>
+    <WindowsUser>Michelle</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>246733a5-b074-41e0-b266-88f80f460965</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\bin\Debug\ThePhotoStore.exe">
+      <PackagePath>ThePhotoStore.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\Assets\images\Camera.png">
+      <PackagePath>Assets\images\Camera.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\Assets\images\collage.png">
+      <PackagePath>Assets\images\collage.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\bin\Debug\FolderPage.xbf">
+      <PackagePath>FolderPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\bin\Debug\PhotoPage.xbf">
+      <PackagePath>PhotoPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\bin\Debug\Save.xbf">
+      <PackagePath>Save.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\bin\Debug\Themes\Generic.xbf">
+      <PackagePath>Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\bin\Debug\ThePhotoStore.xbf">
+      <PackagePath>ThePhotoStore.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\bin\Debug\ViewPage.xbf">
+      <PackagePath>ViewPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\bin\Debug\ThePhotoStore.xr.xml">
+      <PackagePath>ThePhotoStore.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michelle\Documents\Visual Studio 2013\Projects\ThePhotoStore\ThePhotoStore\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

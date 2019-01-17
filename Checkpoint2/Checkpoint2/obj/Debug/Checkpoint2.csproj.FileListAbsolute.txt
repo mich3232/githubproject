@@ -1,0 +1,9 @@
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint2\Checkpoint2\bin\Debug\Checkpoint2.exe.config
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint2\Checkpoint2\bin\Debug\Checkpoint2.exe
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint2\Checkpoint2\bin\Debug\Checkpoint2.pdb
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint2\Checkpoint2\obj\Debug\Checkpoint2.csprojResolveAssemblyReference.cache
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint2\Checkpoint2\obj\Debug\Checkpoint2.Main.resources
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint2\Checkpoint2\obj\Debug\Checkpoint2.Properties.Resources.resources
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint2\Checkpoint2\obj\Debug\Checkpoint2.csproj.GenerateResource.Cache
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint2\Checkpoint2\obj\Debug\Checkpoint2.exe
+c:\users\michelle\documents\visual studio 2013\Projects\Checkpoint2\Checkpoint2\obj\Debug\Checkpoint2.pdb

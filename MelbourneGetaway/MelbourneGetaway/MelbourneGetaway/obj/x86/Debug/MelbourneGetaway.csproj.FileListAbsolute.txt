@@ -1,0 +1,258 @@
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\App.xbf
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\GroupedItemsPage.xbf
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\GroupDetailPage.xbf
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\ItemDetailPage.xbf
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\MelbourneSearchPage.xbf
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\Bing.Maps\Themes\Generic.xbf
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\MelbourneGetaway.xr.xml
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\MelbourneGetaway.exe
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\MelbourneGetaway.pdb
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\resources.pri
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\AppxManifest.xml
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\MelbourneGetaway.build.appxrecipe
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\Bing.Maps.winmd
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\Bing.Maps.xml
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\App.g.i.cs
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\App.g.cs
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\GroupedItemsPage.g.i.cs
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\GroupedItemsPage.g.cs
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\GroupDetailPage.g.i.cs
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\GroupDetailPage.g.cs
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\ItemDetailPage.g.i.cs
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\ItemDetailPage.g.cs
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MelbourneSearchPage.g.i.cs
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MelbourneSearchPage.g.cs
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\App.xaml
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\GroupedItemsPage.xaml
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\ItemDetailPage.xaml
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MelbourneSearchPage.xaml
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\App.xbf
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\GroupedItemsPage.xbf
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\ItemDetailPage.xbf
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MelbourneSearchPage.xbf
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\GroupDetailPage.xaml
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\GroupDetailPage.xbf
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\Bing.Maps\Themes\Generic.xbf
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MelbourneGetaway.exe
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MelbourneGetaway.pdb
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MelbourneGetaway.csproj.GenerateResource.Cache
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\priconfig.xml
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\layout.resfiles
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\resources.resfiles
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\pri.resfiles
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\qualifiers.txt
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\FavouritesPage.xbf
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\FavouritesPage.g.i.cs
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\FavouritesPage.g.cs
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\FavouritesPage.xaml
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\FavouritesPage.xbf
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\MapPageDirections.xbf
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MapPageDirections.g.i.cs
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MapPageDirections.g.cs
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MapPageDirections.xaml
+C:\Users\Michelle\Documents\Visual Studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MapPageDirections.xbf
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\App.xbf
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\FavouritesPage.xbf
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\GroupedItemsPage.xbf
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\GroupDetailPage.xbf
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\ItemDetailPage.xbf
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\MapPageDirections.xbf
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\MelbourneSearchPage.xbf
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\Bing.Maps\Themes\Generic.xbf
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\MelbourneGetaway.xr.xml
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\MelbourneGetaway.exe
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\MelbourneGetaway.pdb
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\resources.pri
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\AppxManifest.xml
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\MelbourneGetaway.build.appxrecipe
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\Bing.Maps.winmd
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\Bing.Maps.xml
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\App.g.i.cs
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\App.g.cs
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\FavouritesPage.g.i.cs
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\FavouritesPage.g.cs
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\GroupedItemsPage.g.i.cs
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\GroupedItemsPage.g.cs
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\GroupDetailPage.g.i.cs
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\GroupDetailPage.g.cs
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\ItemDetailPage.g.i.cs
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\ItemDetailPage.g.cs
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MapPageDirections.g.i.cs
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MapPageDirections.g.cs
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MelbourneSearchPage.g.i.cs
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MelbourneSearchPage.g.cs
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\App.xaml
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\FavouritesPage.xaml
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\GroupedItemsPage.xaml
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\GroupDetailPage.xaml
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\ItemDetailPage.xaml
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MapPageDirections.xaml
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MelbourneSearchPage.xaml
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\App.xbf
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\FavouritesPage.xbf
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\GroupedItemsPage.xbf
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\GroupDetailPage.xbf
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\ItemDetailPage.xbf
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MapPageDirections.xbf
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MelbourneSearchPage.xbf
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\Bing.Maps\Themes\Generic.xbf
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MelbourneGetaway.exe
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MelbourneGetaway.pdb
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MelbourneGetaway.csproj.GenerateResource.Cache
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\priconfig.xml
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\layout.resfiles
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\resources.resfiles
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\pri.resfiles
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\qualifiers.txt
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Michelle\Desktop\computer course\Internet info\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\App.g.i.cs
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\App.g.cs
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\FavouritesPage.g.i.cs
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\FavouritesPage.g.cs
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\GroupedItemsPage.g.i.cs
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\GroupedItemsPage.g.cs
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\GroupDetailPage.g.i.cs
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\GroupDetailPage.g.cs
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\ItemDetailPage.g.i.cs
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\ItemDetailPage.g.cs
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MapPageDirections.g.i.cs
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MapPageDirections.g.cs
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MelbourneSearchPage.g.i.cs
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MelbourneSearchPage.g.cs
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\App.xaml
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\FavouritesPage.xaml
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\GroupedItemsPage.xaml
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\GroupDetailPage.xaml
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\ItemDetailPage.xaml
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MapPageDirections.xaml
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MelbourneSearchPage.xaml
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\App.xbf
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\FavouritesPage.xbf
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\GroupedItemsPage.xbf
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\GroupDetailPage.xbf
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\ItemDetailPage.xbf
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MapPageDirections.xbf
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MelbourneSearchPage.xbf
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MelbourneGetaway.exe
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MelbourneGetaway.pdb
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\App.xbf
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\FavouritesPage.xbf
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\GroupedItemsPage.xbf
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\GroupDetailPage.xbf
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\ItemDetailPage.xbf
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\MapPageDirections.xbf
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\MelbourneSearchPage.xbf
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\Bing.Maps\Themes\Generic.xbf
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\MelbourneGetaway.xr.xml
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\MelbourneGetaway.exe
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\MelbourneGetaway.pdb
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\resources.pri
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\AppxManifest.xml
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\MelbourneGetaway.build.appxrecipe
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\Bing.Maps.winmd
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\Bing.Maps.xml
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\Bing.Maps\Themes\Generic.xbf
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MelbourneGetaway.csproj.GenerateResource.Cache
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\priconfig.xml
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\layout.resfiles
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\resources.resfiles
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\pri.resfiles
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\qualifiers.txt
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\BasicPage1.xbf
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\BasicPage1.g.i.cs
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\BasicPage1.g.cs
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\BasicPage1.xaml
+C:\Users\Michelle\Desktop\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\BasicPage1.xbf
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\App.g.i.cs
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\App.g.cs
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\BasicPage1.g.i.cs
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\BasicPage1.g.cs
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\FavouritesPage.g.i.cs
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\FavouritesPage.g.cs
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\GroupedItemsPage.g.i.cs
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\GroupedItemsPage.g.cs
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\GroupDetailPage.g.i.cs
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\GroupDetailPage.g.cs
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\ItemDetailPage.g.i.cs
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\ItemDetailPage.g.cs
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MapPageDirections.g.i.cs
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MapPageDirections.g.cs
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MelbourneSearchPage.g.i.cs
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MelbourneSearchPage.g.cs
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\App.xaml
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\BasicPage1.xaml
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\GroupedItemsPage.xaml
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\GroupDetailPage.xaml
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\ItemDetailPage.xaml
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MapPageDirections.xaml
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MelbourneSearchPage.xaml
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\App.xbf
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\BasicPage1.xbf
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\GroupedItemsPage.xbf
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\GroupDetailPage.xbf
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\ItemDetailPage.xbf
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MapPageDirections.xbf
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MelbourneSearchPage.xbf
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MelbourneGetaway.exe
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MelbourneGetaway.pdb
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\App.xbf
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\BasicPage1.xbf
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\FavouritesPage.xbf
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\GroupedItemsPage.xbf
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\GroupDetailPage.xbf
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\ItemDetailPage.xbf
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\MapPageDirections.xbf
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\MelbourneSearchPage.xbf
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\Bing.Maps\Themes\Generic.xbf
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\MelbourneGetaway.xr.xml
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\MelbourneGetaway.exe
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\MelbourneGetaway.pdb
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\resources.pri
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\AppxManifest.xml
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\MelbourneGetaway.build.appxrecipe
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\Bing.Maps.winmd
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\bin\x86\Debug\Bing.Maps.xml
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\FavouritesPage.xaml
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\FavouritesPage.xbf
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\Bing.Maps\Themes\Generic.xbf
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MelbourneGetaway.csproj.GenerateResource.Cache
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\priconfig.xml
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\layout.resfiles
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\resources.resfiles
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\pri.resfiles
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\qualifiers.txt
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Michelle\Desktop\MelbourneGetaway (1)\MelbourneGetaway\MelbourneGetaway\obj\x86\Debug\ProjectArchitectures.txt

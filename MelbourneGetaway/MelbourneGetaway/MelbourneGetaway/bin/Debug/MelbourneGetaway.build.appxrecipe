@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MY</Machine>
+    <WindowsUser>Michelle</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>b88e2d7c-bc6b-4673-94c7-1ff6d17d3bac</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\michelle\documents\visual studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\michelle\documents\visual studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\michelle\documents\visual studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\bin\Debug\MelbourneGetaway.exe">
+      <PackagePath>MelbourneGetaway.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\michelle\documents\visual studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\Assets\150x150.png">
+      <PackagePath>Assets\150x150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\michelle\documents\visual studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\Assets\620x300 SplashScreen.png">
+      <PackagePath>Assets\620x300 SplashScreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\michelle\documents\visual studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\Assets\acca.png">
+      <PackagePath>Assets\acca.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\michelle\documents\visual studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\Assets\MelbourneJail.png">
+      <PackagePath>Assets\MelbourneJail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\michelle\documents\visual studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\Assets\seeanddo.png">
+      <PackagePath>Assets\seeanddo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\michelle\documents\visual studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\michelle\documents\visual studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\michelle\documents\visual studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\michelle\documents\visual studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\michelle\documents\visual studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\michelle\documents\visual studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\michelle\documents\visual studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\michelle\documents\visual studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\michelle\documents\visual studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\michelle\documents\visual studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\bin\Debug\GroupedItemsPage.xbf">
+      <PackagePath>GroupedItemsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\michelle\documents\visual studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\bin\Debug\GroupDetailPage.xbf">
+      <PackagePath>GroupDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\michelle\documents\visual studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\bin\Debug\ItemDetailPage.xbf">
+      <PackagePath>ItemDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\michelle\documents\visual studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\bin\Debug\MelbourneGetaway.xr.xml">
+      <PackagePath>MelbourneGetaway.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\michelle\documents\visual studio 2013\Projects\MelbourneGetaway\MelbourneGetaway\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

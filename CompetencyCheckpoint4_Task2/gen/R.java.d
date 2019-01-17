@@ -1,0 +1,21 @@
+C:\Users\Michelle\Documents\NetBeansProjects\CompetencyCheckpoint4_Task2\gen\Android\CompetencyCheckpoint4_Task2\R.java \
+ : C:\Users\Michelle\Documents\NetBeansProjects\CompetencyCheckpoint4_Task2\res\drawable-hdpi\ic_launcher.png \
+C:\Users\Michelle\Documents\NetBeansProjects\CompetencyCheckpoint4_Task2\res\drawable-hdpi\ic_login.png \
+C:\Users\Michelle\Documents\NetBeansProjects\CompetencyCheckpoint4_Task2\res\drawable-ldpi\ic_launcher.png \
+C:\Users\Michelle\Documents\NetBeansProjects\CompetencyCheckpoint4_Task2\res\drawable-ldpi\ic_login.png \
+C:\Users\Michelle\Documents\NetBeansProjects\CompetencyCheckpoint4_Task2\res\drawable-mdpi\ic_launcher.png \
+C:\Users\Michelle\Documents\NetBeansProjects\CompetencyCheckpoint4_Task2\res\drawable-mdpi\ic_login.png \
+C:\Users\Michelle\Documents\NetBeansProjects\CompetencyCheckpoint4_Task2\res\drawable-xhdpi\ic_launcher.png \
+C:\Users\Michelle\Documents\NetBeansProjects\CompetencyCheckpoint4_Task2\res\drawable-xhdpi\ic_login.png \
+C:\Users\Michelle\Documents\NetBeansProjects\CompetencyCheckpoint4_Task2\res\layout\logon.xml \
+C:\Users\Michelle\Documents\NetBeansProjects\CompetencyCheckpoint4_Task2\res\layout\main.xml \
+C:\Users\Michelle\Documents\NetBeansProjects\CompetencyCheckpoint4_Task2\res\values\strings.xml \
+C:\Users\Michelle\Documents\NetBeansProjects\CompetencyCheckpoint4_Task2\bin\res\drawable-hdpi\ic_launcher.png \
+C:\Users\Michelle\Documents\NetBeansProjects\CompetencyCheckpoint4_Task2\bin\res\drawable-hdpi\ic_login.png \
+C:\Users\Michelle\Documents\NetBeansProjects\CompetencyCheckpoint4_Task2\bin\res\drawable-ldpi\ic_launcher.png \
+C:\Users\Michelle\Documents\NetBeansProjects\CompetencyCheckpoint4_Task2\bin\res\drawable-ldpi\ic_login.png \
+C:\Users\Michelle\Documents\NetBeansProjects\CompetencyCheckpoint4_Task2\bin\res\drawable-mdpi\ic_launcher.png \
+C:\Users\Michelle\Documents\NetBeansProjects\CompetencyCheckpoint4_Task2\bin\res\drawable-mdpi\ic_login.png \
+C:\Users\Michelle\Documents\NetBeansProjects\CompetencyCheckpoint4_Task2\bin\res\drawable-xhdpi\ic_launcher.png \
+C:\Users\Michelle\Documents\NetBeansProjects\CompetencyCheckpoint4_Task2\bin\res\drawable-xhdpi\ic_login.png \
+C:\Users\Michelle\Documents\NetBeansProjects\CompetencyCheckpoint4_Task2\bin\AndroidManifest.xml \

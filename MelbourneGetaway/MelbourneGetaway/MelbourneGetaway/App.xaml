@@ -1,0 +1,34 @@
+﻿<Application
+    x:Class="MelbourneGetaway.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MelbourneGetaway"
+    xmlns:localData="using:MelbourneGetaway.Data">
+
+    <Application.Resources>
+        <Color x:Key="PageTitleForgroundColor">#000000</Color>
+        <SolidColorBrush x:Key="PageTitleForegroundBrush" 
+               Color="{StaticResource PageTitleForgroundColor}"/>
+
+        <ImageBrush x:Key="AppBackgroundImage" ImageSource="/Assets/GIbackground.png" 
+               Stretch="UniformToFill"></ImageBrush>
+        <ImageBrush x:Key="AppBackgroundImage_1" ImageSource="/Assets/Gbackground.png" 
+               Stretch="UniformToFill"></ImageBrush>
+        <ImageBrush x:Key="AppBackgroundImage_2" ImageSource="/Assets/Ibackground.png" 
+               Stretch="UniformToFill"></ImageBrush>
+        <ImageBrush x:Key="AppBackgroundImage_3" ImageSource="/Assets/Fbackground.png" 
+               Stretch="UniformToFill"></ImageBrush>
+        <ImageBrush x:Key="AppBackgroundImage_4" ImageSource="/Assets/Sbackground.png" 
+               Stretch="UniformToFill"></ImageBrush>
+        <!-- Grid Layout Background-->
+        <Style x:Key="LayoutRootStyle" TargetType="Panel">
+            <Setter Property="Background" Value="{StaticResource AppBackgroundImage}"></Setter>
+        </Style>
+
+
+        <!-- Application-specific resources -->
+
+        <x:String x:Key="AppName">Melbourne Getaway</x:String>
+        <x:String x:Key="BingMapsApiKey">AstDVu9gRLtnI5Bh-OncSwPJDDcT4nmi6k0gSK-dcvY7BfEvanOL7xldoSOWFIcb</x:String>
+    </Application.Resources>
+</Application>
